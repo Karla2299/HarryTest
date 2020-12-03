@@ -1,0 +1,21 @@
+from ,to,weight
+Harry ,Ron,1
+Ron,Harry,1
+Harry ,Hermine,2
+Hermine,Harry,2
+Ron,Hermine,2
+Ron,Harry,2
+Harry ,Hagrid,2
+Hagrid,Harry,2
+Harry ,Dumbledore,3
+Dumbledore,Harry,3
+Neville,Harry,4
+Harry ,Neville,4
+Ron,Neville,4
+Neville,Ron,4
+Hermine,Neville,4
+Neville,Hermine,4
+Hagrid,Norbert,1
+Hagrid,Fluffy,1
+Dumbledore,Hagrid,3
+Hagrid,Dumbledore,2
